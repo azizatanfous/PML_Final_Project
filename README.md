@@ -8,7 +8,7 @@ This repository contains the following:
 
 - **Code:** This directory houses the codebase for our project. It includes scripts for preprocessing the audio data, extracting relevant features, and implementing the machine learning models employed for bird species identification.
 
-- **Data_Input:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.
+- **Data:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.
 
 - **Results:** All results obtained from the trained models are stored in the `results/` folder. This section provides insights and analysis based on the model predictions and can serve as a valuable resource for understanding our project's outcomes.
 
