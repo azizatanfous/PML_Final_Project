@@ -5,13 +5,13 @@ BirdCLEF Competition: Identifying Eastern African Bird Species by Sound
 This repository contains the code and documentation for our project in the BirdCLEF competition. The goal of the competition was to develop machine learning models that can accurately identify bird species in Eastern Africa based on their sound recordings. The project aimed to contribute to the efforts of NATURAL STATE in monitoring avian biodiversity and evaluating restoration projects in the region.
 
 # Project Structure
-data/: This directory contains the provided training data as well as the test data used for evaluation.
-preprocessing/: Code for preprocessing the audio data and extracting relevant features.
-Code/: Code for preprocessing the audio data and extracting relevant features, implementation of the machine learning models used for bird species identification.
-evaluation/: Evaluation code and scripts for computing the performance metrics.
-results/: Folder to store the results obtained from the trained models.
-Report/: Report of the project.
-README.md: This README file.
+- data/: This directory contains the provided training data as well as the test data used for evaluation.
+- preprocessing/: Code for preprocessing the audio data and extracting relevant features.
+- Code/: Code for preprocessing the audio data and extracting relevant features, implementation of the machine learning models used for bird species identification.
+- evaluation/: Evaluation code and scripts for computing the performance metrics.
+- results/: Folder to store the results obtained from the trained models.
+- Report/: Report of the project.
+- README.md: This README file.
 
 # Usage
 ## Clone the repository:
