@@ -1,27 +1,37 @@
-# PML_Project_Proposal
-# BirdCLEF 2023_KaggleCompetition
+# BirdCLEF Competition: Identifying Eastern African Bird Species by Sound
 
-BirdCLEF Competition: Identifying Eastern African Bird Species by Sound
-This repository contains the code and documentation for our project in the BirdCLEF competition. The goal of the competition was to develop machine learning models that can accurately identify bird species in Eastern Africa based on their sound recordings. The project aimed to contribute to the efforts of NATURAL STATE in monitoring avian biodiversity and evaluating restoration projects in the region.
+Welcome to the repository for our project in the BirdCLEF competition. The primary objective of this competition was to develop advanced machine learning models capable of accurately identifying bird species in Eastern Africa based on their sound recordings. Our project sought to contribute to NATURAL STATE's ongoing efforts in monitoring avian biodiversity and evaluating restoration projects within the region.
 
-# Project Structure
-- data/: This directory contains the provided training data as well as the test data used for evaluation.
-- preprocessing/: Code for preprocessing the audio data and extracting relevant features.
-- Code/: Code for preprocessing the audio data and extracting relevant features, implementation of the machine learning models used for bird species identification.
-- evaluation/: Evaluation code and scripts for computing the performance metrics.
-- results/: Folder to store the results obtained from the trained models.
-- Report/: Report of the project.
-- README.md: This README file.
+## Repository Contents
 
-# Usage
-## Clone the repository:
+This repository contains the following:
+
+- **Code:** This directory houses the codebase for our project. It includes scripts for preprocessing the audio data, extracting relevant features, and implementing the machine learning models employed for bird species identification.
+
+- **Data_Input:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.
+
+- **Results:** All results obtained from the trained models are stored in the `results/` folder. This section provides insights and analysis based on the model predictions and can serve as a valuable resource for understanding our project's outcomes.
+
+- **Report:** The `Report/` directory contains our comprehensive project report. It covers all aspects of the project, including the motivation, problem statement, data description, methods, results, discussions, and conclusions. The report also includes relevant references and acknowledgments.
+
+- **README.md:** You are currently reading the README file, which provides an overview of the repository's contents and project background.
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository:
 git clone https://github.com/your-username/birdclef-competition.git
-## View the results:
-The results of the trained models will be saved in the results/ directory. You can analyze the results and performance metrics to assess the effectiveness of the models.
 
-# Contributing
+2. View the results:
+The results of the trained models will be saved in the `results/` directory. You can analyze the results and performance metrics to assess the effectiveness of the models.
+
+## Contributing
+
 We welcome contributions to improve the project. If you have any suggestions, bug fixes, or additional features, please submit a pull request. You can also open an issue for any discussions or questions.
 
-# Authors
-Aziza Ben Tanfous : n° 27156
-Johanna Rauberger : n° 27492
+## Authors
+
+- Aziza Ben Tanfous: n° 27156
+- Johanna Rauberger: n° 27492
+
