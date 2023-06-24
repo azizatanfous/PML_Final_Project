@@ -10,7 +10,7 @@ This repository contains the following:
 
 - **Data:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.The training data is missing in the data folder because we were not able to upload it due to its size. In case you want to run the code you should use kaggle notebook and upload the dataset directly from the competition input folder. 
 
-- **Results:** All results obtained from the trained models are stored in the `results/` folder. This section caontains the csv output file.
+- **Results:** All results obtained from the trained models are stored in the `results/` folder. This section contains the csv output file.
 
 - **Report:** The `Report/` directory contains our comprehensive project report. It covers all aspects of the project, including the motivation, problem statement, data description, methods, results, discussions, and conclusions. The report also includes relevant references and acknowledgments.
 
