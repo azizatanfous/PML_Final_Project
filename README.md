@@ -8,7 +8,7 @@ This repository contains the following:
 
 - **Code:** This directory houses the codebase for our project. It includes scripts for preprocessing the audio data, extracting relevant features, and implementing the machine learning models employed for bird species identification.
 
-- **Data:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.The training data is missing in the data folder because we were not able to upload it due to its size. 
+- **Data:** The `data/` directory contains the provided training data as well as the test data used for evaluation. It serves as the foundation for our analysis and model development.The training data is missing in the data folder because we were not able to upload it due to its size. In case you want to run the code you should use kaggle notebook and upload the dataset directly from the competition input folder. 
 
 - **Results:** All results obtained from the trained models are stored in the `results/` folder. This section caontains the csv output file.
 
